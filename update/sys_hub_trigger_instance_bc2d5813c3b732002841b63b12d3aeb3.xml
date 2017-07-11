@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_trigger_instance">
+    <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
+        <display_text/>
+        <flow display_value="Test1">382d1413c3b732002841b63b12d3ae41</flow>
+        <name>Updated</name>
+        <remote_sys_id>a005bfc3dbbf3200efc65404ce96198f</remote_sys_id>
+        <sys_class_name>sys_hub_trigger_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:42</sys_created_on>
+        <sys_id>bc2d5813c3b732002841b63b12d3aeb3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>record_update</sys_name>
+        <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
+        <sys_update_name>sys_hub_trigger_instance_bc2d5813c3b732002841b63b12d3aeb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:42</sys_updated_on>
+        <trigger_definition display_value="Updated">bb695e60c31322002841b63b12d3aea5</trigger_definition>
+        <trigger_inputs/>
+        <trigger_outputs/>
+        <trigger_type>record_update</trigger_type>
+    </sys_hub_trigger_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=bc2d5813c3b732002841b63b12d3aeb3"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>bc2d5813c3b732002841b63b12d3aeb3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:43</sys_created_on>
+        <sys_id>012d5813c3b732002841b63b12d3aeb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:43</sys_updated_on>
+        <value>^EQ</value>
+        <variable display_value="">bb9adea0c31322002841b63b12d3ae67</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>bc2d5813c3b732002841b63b12d3aeb3</document_key>
+        <order>101</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:43</sys_created_on>
+        <sys_id>4d2d5813c3b732002841b63b12d3aeb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:43</sys_updated_on>
+        <value>always</value>
+        <variable display_value="">c19523d8c31932002841b63b12d3aea1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>bc2d5813c3b732002841b63b12d3aeb3</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:42</sys_created_on>
+        <sys_id>742d5813c3b732002841b63b12d3aeb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:42</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">1dda12e0c31322002841b63b12d3aea8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>bc2d5813c3b732002841b63b12d3aeb3</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:42</sys_created_on>
+        <sys_id>b02d5813c3b732002841b63b12d3aeb7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:42</sys_updated_on>
+        <value>^EQ</value>
+        <variable display_value="">bb9adea0c31322002841b63b12d3ae67</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>bc2d5813c3b732002841b63b12d3aeb3</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:43</sys_created_on>
+        <sys_id>c12d5813c3b732002841b63b12d3aeb9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:43</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="">1dda12e0c31322002841b63b12d3aea8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>bc2d5813c3b732002841b63b12d3aeb3</document_key>
+        <order>101</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:25:42</sys_created_on>
+        <sys_id>fc2d5813c3b732002841b63b12d3aeb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:25:42</sys_updated_on>
+        <value>always</value>
+        <variable display_value="">c19523d8c31932002841b63b12d3aea1</variable>
+    </sys_variable_value>
+</record_update>

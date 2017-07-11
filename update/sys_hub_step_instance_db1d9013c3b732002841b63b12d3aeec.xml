@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_hub_step_instance">
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
-        <action display_value="Rawr">6d9c63c3c33332002841b63b12d3ae2c</action>
+        <action display_value="Rawr">be1d1013c3b732002841b63b12d3aee5</action>
         <cid>0032a848-dfad-4d9f-b894-1a21662efa27</cid>
         <extended_inputs/>
         <extended_inputs/>
@@ -14,58 +14,57 @@
         <step_type display_value="Script">106afb6647032200b4fad7527c9a71e7</step_type>
         <sys_class_name>sys_hub_step_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-11 17:28:52</sys_created_on>
-        <sys_id>e6a43bc3dbbf3200efc65404ce9619ec</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_created_on>2017-07-11 20:25:35</sys_created_on>
+        <sys_id>db1d9013c3b732002841b63b12d3aeec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Script step </sys_name>
         <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
-        <sys_update_name>sys_hub_step_instance_e6a43bc3dbbf3200efc65404ce9619ec</sys_update_name>
+        <sys_update_name>sys_hub_step_instance_db1d9013c3b732002841b63b12d3aeec</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 20:27:52</sys_updated_on>
+        <sys_updated_on>2017-07-11 20:25:37</sys_updated_on>
     </sys_hub_step_instance>
-    <sys_variable_value action="delete_multiple" query="document_key=e6a43bc3dbbf3200efc65404ce9619ec"/>
+    <sys_variable_value action="delete_multiple" query="document_key=db1d9013c3b732002841b63b12d3aeec"/>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_step_instance</document>
-        <document_key>e6a43bc3dbbf3200efc65404ce9619ec</document_key>
+        <document_key>db1d9013c3b732002841b63b12d3aeec</document_key>
         <order>200</order>
         <sys_class_name>sys_variable_value</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-11 17:28:53</sys_created_on>
-        <sys_id>f2a47bc3dbbf3200efc65404ce961936</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2017-07-11 20:25:37</sys_created_on>
+        <sys_id>2b1d1413c3b732002841b63b12d3ae16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 20:27:52</sys_updated_on>
+        <sys_updated_on>2017-07-11 20:25:37</sys_updated_on>
         <value>(function execute(inputs, outputs) {
 // ... code ...tsts
- outputs.variable = inputs.parameter;
 })(inputs, outputs);
 </value>
         <variable display_value="">71aa7f6647032200b4fad7527c9a719b</variable>
     </sys_variable_value>
-    <sys_element_mapping action="delete_multiple" query="id=e6a43bc3dbbf3200efc65404ce9619ec"/>
+    <sys_element_mapping action="delete_multiple" query="id=db1d9013c3b732002841b63b12d3aeec"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>parameter</field>
-        <id>e6a43bc3dbbf3200efc65404ce9619ec</id>
+        <id>db1d9013c3b732002841b63b12d3aeec</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-11 17:28:53</sys_created_on>
-        <sys_id>f2a47bc3dbbf3200efc65404ce961937</sys_id>
+        <sys_created_on>2017-07-11 20:25:37</sys_created_on>
+        <sys_id>271d1413c3b732002841b63b12d3ae17</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 17:28:53</sys_updated_on>
-        <table>var__m_sys_hub_step_ext_input_e6a43bc3dbbf3200efc65404ce9619ec</table>
+        <sys_updated_on>2017-07-11 20:25:37</sys_updated_on>
+        <table>var__m_sys_hub_step_ext_input_db1d9013c3b732002841b63b12d3aeec</table>
         <value>{{action.variable}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>script</field>
-        <id>e6a43bc3dbbf3200efc65404ce9619ec</id>
+        <id>db1d9013c3b732002841b63b12d3aeec</id>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-11 17:28:53</sys_created_on>
-        <sys_id>7ea47bc3dbbf3200efc65404ce961935</sys_id>
+        <sys_created_on>2017-07-11 20:25:37</sys_created_on>
+        <sys_id>a71d1413c3b732002841b63b12d3ae16</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 17:28:53</sys_updated_on>
+        <sys_updated_on>2017-07-11 20:25:37</sys_updated_on>
         <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>

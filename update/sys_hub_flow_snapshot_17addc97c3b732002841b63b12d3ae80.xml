@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"Updated_1.run_start_time","label":"Trigger➛Run Start Time"},{"name":"Updated_1.table_name","label":"Trigger➛Incident Table","reference":"incident","reference_display":"Incident"}]</label_cache>
+        <name>Test1</name>
+        <parent_flow display_value="Test1">818c23c3c33332002841b63b12d3ae2c</parent_flow>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 20:28:03</sys_created_on>
+        <sys_id>17addc97c3b732002841b63b12d3ae80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test1</sys_name>
+        <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_17addc97c3b732002841b63b12d3ae80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:28:03</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

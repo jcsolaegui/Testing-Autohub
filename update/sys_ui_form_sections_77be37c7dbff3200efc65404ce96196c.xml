@@ -11,7 +11,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_flow_step_definition_input" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">77be37c7dbff3200efc65404ce96196c</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">7fbe37c7dbff3200efc65404ce9619ba</sys_ui_section>
+            <sys_ui_section display_value="">7fbe37c7dbff3200efc65404ce9619ba</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-11 18:12:56</sys_updated_on>
         </sys_ui_form_section>
@@ -25,7 +25,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_flow_step_definition_input" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">77be37c7dbff3200efc65404ce96196c</sys_ui_form>
-            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">f7be37c7dbff3200efc65404ce96196e</sys_ui_section>
+            <sys_ui_section display_value="">f7be37c7dbff3200efc65404ce96196e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-11 18:12:55</sys_updated_on>
         </sys_ui_form_section>
@@ -39,7 +39,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_flow_step_definition_input" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">77be37c7dbff3200efc65404ce96196c</sys_ui_form>
-            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">33be37c7dbff3200efc65404ce9619bf</sys_ui_section>
+            <sys_ui_section display_value="">33be37c7dbff3200efc65404ce9619bf</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-11 18:12:56</sys_updated_on>
         </sys_ui_form_section>
@@ -53,7 +53,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="sys_flow_step_definition_input" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">77be37c7dbff3200efc65404ce96196c</sys_ui_form>
-            <sys_ui_section caption="Default Value" display_value="Default Value" name="sys_flow_step_definition_input" sys_domain="global" view="Default view">3fbe37c7dbff3200efc65404ce9619bd</sys_ui_section>
+            <sys_ui_section display_value="">3fbe37c7dbff3200efc65404ce9619bd</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-11 18:12:56</sys_updated_on>
         </sys_ui_form_section>
