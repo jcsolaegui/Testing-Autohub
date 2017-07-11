@@ -3,8 +3,8 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
-        <action_type display_value="Rawr">a0ad101bc3b732002841b63b12d3ae67</action_type>
-        <compiled_snapshot display_value="Rawr">7c3bf783dbff3200efc65404ce961996</compiled_snapshot>
+        <action_type display_value="Rawr">bc7e10dfc3f732002841b63b12d3aeca</action_type>
+        <compiled_snapshot display_value="Rawr">bc7e10dfc3f732002841b63b12d3aeca</compiled_snapshot>
         <display_text/>
         <flow display_value="Test1">818c23c3c33332002841b63b12d3ae2c</flow>
         <order>1</order>
@@ -13,14 +13,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-11 16:54:17</sys_created_on>
         <sys_id>7fbc63c3c33332002841b63b12d3aefb</sys_id>
-        <sys_mod_count>27</sys_mod_count>
+        <sys_mod_count>31</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
         <sys_update_name>sys_hub_action_instance_7fbc63c3c33332002841b63b12d3aefb</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 20:28:00</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:32:26</sys_updated_on>
         <ui_id>799f4609-dca7-4d46-bf5b-8bf67f5ff95c</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=7fbc63c3c33332002841b63b12d3aefb"/>
@@ -119,6 +119,18 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-07-11 17:30:22</sys_updated_on>
         <table>var__m_sys_hub_action_input_94b4bbc3dbbf3200efc65404ce961905</table>
+        <value>{{Updated_1.table_name}} ststs</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>variable</field>
+        <id>7fbc63c3c33332002841b63b12d3aefb</id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-07-11 20:32:26</sys_created_on>
+        <sys_id>ebaed813c33b32002841b63b12d3aebc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:32:26</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bc7e10dfc3f732002841b63b12d3aeca</table>
         <value>{{Updated_1.table_name}} ststs</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">

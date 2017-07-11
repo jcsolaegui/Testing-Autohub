@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="variable34" label="variable34" language="en" table="var__m_sys_hub_step_ext_output_52bf9053c33b32002841b63b12d3ae1f">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>variable34</element>
+            <help/>
+            <hint/>
+            <label>variable34</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_52bf9053c33b32002841b63b12d3ae1f</name>
+            <plural>variable34</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-11 20:37:00</sys_created_on>
+            <sys_id>debf9053c33b32002841b63b12d3ae39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>variable34</sys_name>
+            <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_52bf9053c33b32002841b63b12d3ae1f_variable34_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-11 20:37:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

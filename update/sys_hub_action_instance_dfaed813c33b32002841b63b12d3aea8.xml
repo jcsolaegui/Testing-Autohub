@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Rawr">bc7e10dfc3f732002841b63b12d3aeca</action_type>
+        <compiled_snapshot display_value="Rawr">bc7e10dfc3f732002841b63b12d3aeca</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Test1">dbaed813c33b32002841b63b12d3ae9b</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-07-11 20:32:25</sys_created_on>
+        <sys_id>dfaed813c33b32002841b63b12d3aea8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
+        <sys_update_name>sys_hub_action_instance_dfaed813c33b32002841b63b12d3aea8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:32:26</sys_updated_on>
+        <ui_id>799f4609-dca7-4d46-bf5b-8bf67f5ff95c</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=dfaed813c33b32002841b63b12d3aea8"/>
+    <sys_element_mapping action="delete_multiple" query="id=dfaed813c33b32002841b63b12d3aea8"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>variable</field>
+        <id>dfaed813c33b32002841b63b12d3aea8</id>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-07-11 20:32:25</sys_created_on>
+        <sys_id>d7aed813c33b32002841b63b12d3aead</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-11 20:32:25</sys_updated_on>
+        <table>var__m_sys_hub_action_input_bc7e10dfc3f732002841b63b12d3aeca</table>
+        <value>{{Updated_1.table_name}} ststs</value>
+    </sys_element_mapping>
+</record_update>
