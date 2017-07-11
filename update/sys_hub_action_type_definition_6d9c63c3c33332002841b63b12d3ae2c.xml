@@ -6,7 +6,7 @@
         <category/>
         <description/>
         <label_cache>[{"name":"{{action.variable}}","label":"action➛variable","type":"action","ref":""}]</label_cache>
-        <latest_snapshot display_value="Rawr">c6e1b307c33332002841b63b12d3aec8</latest_snapshot>
+        <latest_snapshot display_value="Rawr">a5523707c33332002841b63b12d3aece</latest_snapshot>
         <name>Rawr</name>
         <outputs/>
         <outputs/>
@@ -15,14 +15,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-11 16:53:35</sys_created_on>
         <sys_id>6d9c63c3c33332002841b63b12d3ae2c</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Rawr</sys_name>
         <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
         <sys_policy/>
         <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_6d9c63c3c33332002841b63b12d3ae2c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 17:16:51</sys_updated_on>
+        <sys_updated_on>2017-07-11 17:18:43</sys_updated_on>
         <system_level>false</system_level>
     </sys_hub_action_type_definition>
     <sys_variable_value action="delete_multiple" query="document_key=6d9c63c3c33332002841b63b12d3ae2c"/>
