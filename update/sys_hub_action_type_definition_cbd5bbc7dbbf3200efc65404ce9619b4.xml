@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <category/>
+        <description/>
+        <label_cache>[{"name":"{{action.board}}","label":"action➛board","type":"action","ref":""},{"name":"{{action.user}}","label":"action➛user","type":"action","ref":""},{"name":"{{action.board.sys_id}}","label":"action➛board➛Sys ID","type":"action","ref":""},{"name":"{{action.user.sys_id}}","label":"action➛user➛Sys ID","type":"action","ref":""}]</label_cache>
+        <latest_snapshot display_value="testScriptadduser">cca6bf8bdbbf3200efc65404ce961995</latest_snapshot>
+        <name>testScriptadduser</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 17:34:06</sys_created_on>
+        <sys_id>cbd5bbc7dbbf3200efc65404ce9619b4</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>testScriptadduser</sys_name>
+        <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_cbd5bbc7dbbf3200efc65404ce9619b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 17:37:29</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_variable_value action="delete_multiple" query="document_key=cbd5bbc7dbbf3200efc65404ce9619b4"/>
+</record_update>
