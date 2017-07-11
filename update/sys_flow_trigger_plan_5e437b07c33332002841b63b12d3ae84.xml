@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_flow_trigger_plan">
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan_id>818c23c3c33332002841b63b12d3ae2c</plan_id>
+        <snapshot>0d537b07c33332002841b63b12d3aef1</snapshot>
+        <sys_class_name>sys_flow_trigger_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-11 17:22:52</sys_created_on>
+        <sys_id>5e437b07c33332002841b63b12d3ae84</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>5e437b07c33332002841b63b12d3ae82</sys_name>
+        <sys_package display_value="Testing Git" source="sn_testing_git">676c6f83c33332002841b63b12d3aeed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Testing Git">676c6f83c33332002841b63b12d3aeed</sys_scope>
+        <sys_update_name>sys_flow_trigger_plan_5e437b07c33332002841b63b12d3ae84</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-11 17:23:03</sys_updated_on>
+        <trigger display_value="">5e437b07c33332002841b63b12d3ae82</trigger>
+    </sys_flow_trigger_plan>
+</record_update>
