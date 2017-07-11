@@ -37,7 +37,7 @@
         <label>Parameter</label>
         <mandatory>false</mandatory>
         <max_length>1000</max_length>
-        <model display_value="Script step ">53e2f707c33332002841b63b12d3ae50</model>
+        <model/>
         <model_id>53e2f707c33332002841b63b12d3ae50</model_id>
         <model_table>sys_hub_step_instance</model_table>
         <name>var__m_sys_hub_step_ext_input_53e2f707c33332002841b63b12d3ae50</name>
